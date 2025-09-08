@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Polytope MATLAB scripts"
+message: "If you use this software, please cite it using the metadata below."
+
+authors:
+  - family-names: "Postrach"
+    given-names: "Daniel"
+    affiliation: "<German Cancer Research Center (DKFZ), Heidelberg, Germany>"
+
+version: "v1.0.0"
+date-released: "2025-09-08"
+repository-code: "https://github.com/<YOUR-USER>/polytope-matlab"
+
+preferred-citation:
+  type: article
+  title: "Polytope epitope barcoding reveals spatial clonal dynamics of T cell development in vivo"
+  authors:
+    - family-names: "Postrach"
+      given-names: "Daniel"
+    # Add other coauthors here as needed
+  year: 2025
+  journal: "Nature (submitted)"
+  note: "Manuscript submitted"
