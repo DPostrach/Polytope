@@ -1,5 +1,5 @@
 # Polytope MATLAB scripts
-MATLAB scripts for simulating and calling Polytope epitope barcodes. Companion code for: *Polytope epitope barcoding reveals spatial clonal dynamics of T cell development in vivo* (manuscript submitted to *Nature*).
+MATLAB scripts for simulating and calling Polytope epitope barcodes. Companion code for: *Polytope epitope barcoding reveals spatial clonal dynamics of T cell development in vivo* (manuscript submitted).
 
 ## Contents
 - `src/simulateColorCodes.m` — simulate Polytope color code generation given input cell numbers and recombination patterns.
