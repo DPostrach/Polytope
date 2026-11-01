@@ -4,10 +4,10 @@ This repository contains MATLAB scripts and interactive HTML tools for simulatin
 
 ## Interactive tools
 
-- [`interactive_tools/polytope_recombination_network.html`](interactive_tools/polytope_recombination_network.html) — explore the Polytope barcode recombination network.
-- [`interactive_tools/random_barcode_generation.html`](interactive_tools/random_Polytope_barcode_generation.html) — simulate random barcode generation and spatial clonal outgrowth.
+Open the [Polytope Barcode Tools website](https://dpostrach.github.io/Polytope/).
 
-To use a tool, download its HTML file and open it in a web browser. GitHub displays the file’s source code; it does not run the tool in the repository view.
+- [Polytope barcode recombination network](https://dpostrach.github.io/Polytope/interactive_tools/polytope_recombination_network.html) — explore the Polytope barcode recombination network.
+- [Random barcode generation simulator](https://dpostrach.github.io/Polytope/interactive_tools/random_Polytope_barcode_generation.html) — simulate random barcode generation and spatial clonal outgrowth.
 
 ## MATLAB scripts
 
